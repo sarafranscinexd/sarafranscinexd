@@ -1,8 +1,4 @@
 # Olá, eu sou a Sara! XD
-
-### **🌼 Sobre Mim 🌼**
-Estudante de tecnologia e dando os primeiros passos na programação! 
-
 <p align="left">
     <img src="https://i.picasion.com/pic92/ea4b7c5a13ee97a1cd9f570b6260ac3c.gif" alt="Animação de Programação" width="200" />
 </p>
