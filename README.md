@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Sara! XD
+# Olá, eu sou a Sara! XD
 
 ### **🌼 Sobre Mim 🌼**
 Sou estudante apaixonada por tecnologia e estou dando os primeiros passos na programação! 
