@@ -1,16 +1,15 @@
-## Hi there 👋
+#  Olá, eu sou a Sara! XD
 
-<!--
-**sarafranscinexd/sarafranscinexd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **🌼 Sobre Mim 🌼**
+Sou estudante apaixonada por tecnologia e estou dando os primeiros passos na programação! 
 
-Here are some ideas to get you started:
+### **Habilidades**
+- ![Java](https://img.shields.io/badge/Java-Iniciante-yellow) 
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediário-blue) 
+- ![HTML](https://img.shields.io/badge/HTML-Intermediário-orange) 
+- ![CSS](https://img.shields.io/badge/CSS-Intermediário-purple) 
+- ![SQL](https://img.shields.io/badge/SQL-Iniciante-lightgrey) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Animação de Programação](https://i.picasion.com/pic92/ea4b7c5a13ee97a1cd9f570b6260ac3c.gif)
+
+---
