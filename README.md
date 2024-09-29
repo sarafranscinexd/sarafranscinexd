@@ -1,7 +1,7 @@
 # Olá, eu sou a Sara! XD
 
 ### **🌼 Sobre Mim 🌼**
-Sou estudante apaixonada por tecnologia e estou dando os primeiros passos na programação! 
+Estudante de tecnologia e dando os primeiros passos na programação! 
 
 ### **Habilidades**
 - ![Java](https://img.shields.io/badge/Java-Iniciante-yellow) 
